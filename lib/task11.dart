@@ -18,6 +18,14 @@ class Task11 extends StatelessWidget {
                 fontWeight: FontWeight.bold,
               ),
             ),
+            const Text(
+              "training one",
+              style: TextStyle(
+                fontSize: 20,
+                color: Colors.white54,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
             Container(
               width: 300,
               height: 200,
